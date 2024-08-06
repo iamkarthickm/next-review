@@ -3,7 +3,7 @@
 import ShareLinkButton from "./ShareLinkButton";
 
 export default function ShareButtons() {
-    console.log('[ShareButtons] Rendering');
+    /* console.log('[ShareButtons] Rendering'); */
     return (
         <div>
             <ShareLinkButton/>

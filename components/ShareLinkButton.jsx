@@ -16,7 +16,7 @@ import { useState } from "react";
         setClicked(false);
     } */
     
-    console.log('[ShareLinkButton] clicked:', clicked)
+    /* console.log('[ShareLinkButton] clicked:', clicked) */
     return (
         <>
         <button onClick={handleClick}
